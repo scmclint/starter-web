@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Clint Schaeffer neclint@yahoo.com <no twitter handle>
 
 # THANKS
 
