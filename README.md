@@ -1,5 +1,6 @@
-# Starter Web Repo
+# Starter Web Project
 
+## Introduction
 This repository is for showing how Git and GitHub work
 Practicing for Clint
 
@@ -7,4 +8,6 @@ Practicing for Clint
 
 Sample website with plenty of files for demos
 
-Practicing for Clint after Purpose
+## How To Contribute
+
+### Why?
