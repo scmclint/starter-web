@@ -13,3 +13,7 @@ Sample website with plenty of files for demos
 ## How To Contribute
 
 ### Why?
+
+### Copyright
+
+2016 Git learning
