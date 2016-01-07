@@ -10,6 +10,8 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+Just put it somewhere
+
 ## How To Contribute
 Please fork this respository
 ### Why?
