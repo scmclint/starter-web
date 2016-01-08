@@ -2,6 +2,7 @@
 
 ## Introduction
 This repository is for showing how Git and GitHub work
+Practice Stach
 Practicing for Clint
 
 ## Purpose
